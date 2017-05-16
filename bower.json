@@ -1,0 +1,26 @@
+{
+  "name": "front-end-architecture-examples",
+  "description": "Using these (branched) examples in my talk.",
+  "main": "index.js",
+  "authors": [
+    "Jeffrey de Graaf"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "front-end",
+    "architecture",
+    "example"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}
